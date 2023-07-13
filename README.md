@@ -1,7 +1,7 @@
 # Python
 Coffee Machine Program
 
--> This is a very simple sort of digital coffee machine program.
+-> A very simple digital coffee machine program.
 
 -> It is a coin-based system [quarters, dimes, nickels, pennies]
 
