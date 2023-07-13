@@ -1,9 +1,12 @@
 # Python
 Coffee Machine Program
 
--> This is a very simple sort of digital program.
+-> This is a very simple sort of digital coffee machine program.
+
 -> It is a coin-based system [quarters, dimes, nickels, pennies]
--> It includes the use of nested dictionaries 
+
+-> It includes the use of a nested dictionary
+
 -> Resources can be changed though they are fixed with minimal values for simplicity.
 
 
